@@ -1,0 +1,60 @@
+
+
+body{
+	background-color: #F08080;
+}
+h1{
+	text-align: center;
+	color:maroon;
+	font-family: Spirax;
+}
+h2{
+	font-family: arial;
+	text-align: center;
+	font-family: Indie Flower;
+}
+
+#prg1{
+	border-left-color: black;
+    border-left: 10px;
+    border-left-style: solid;
+	text-align: center;
+	font-family: verdana;
+	color: 	#2F4F4F;
+	letter-spacing: 10px;
+	font-size: 30px;
+	margin-left: 400px;
+}
+
+#prg2{
+	border-right:10px;
+	border-right-color: #90EE90;
+	border-right-style: solid;
+	text-align: left;
+	font-family: Nova Oval;
+	color: 	#696969;
+	border-left-color: white;
+	letter-spacing: 6px;
+	font-size: 20px;
+	margin-right: 400px;
+	padding-top: 30px;
+}
+
+#prg3{
+	border-left: 10px;
+	border-left-color:silver;
+	border-left-style: solid;
+	padding-top: 30px;
+	text-align: right;
+	font-family: Gloria Hallelujah;
+	letter-spacing: 8px;
+	font-size: 15px;
+}
+img{
+	width: 200px;
+	height: 200px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 50%;
+	margin-left: 580px; 	
+}
